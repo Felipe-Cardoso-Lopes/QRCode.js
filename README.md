@@ -1,2 +1,2 @@
 # QRCode.js
-Atividade de criar um gerador de QRCode com JavaScript
+Atividade para criar um gerador de QRCode com JavaScript
